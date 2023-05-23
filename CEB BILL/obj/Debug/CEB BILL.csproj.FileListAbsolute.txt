@@ -1,0 +1,18 @@
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\bin\Debug\CEB BILL.exe.config
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\bin\Debug\CEB BILL.exe
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\bin\Debug\CEB BILL.pdb
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.csproj.AssemblyReference.cache
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.Dashboard.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.Properties.Resources.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.csproj.GenerateResource.cache
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.csproj.CoreCompileInputs.cache
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.exe
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB BILL.pdb
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_ind_cat_I_1.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_gen_cat_GP_1.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_hot_cat_H_1.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_dom_billrate.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_dom_cal.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_gov_cat_GV_1.resources
+C:\Users\Risitha Nadimal\source\repos\CEB BILL\CEB BILL\obj\Debug\CEB_BILL.frm_rel_cat_R_1.resources
